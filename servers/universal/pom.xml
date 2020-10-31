@@ -115,6 +115,7 @@
 
     <profiles>
         <profile>
+            <id>nodocker</id>
             <activation>
                 <property>
                     <name>nodocker</name>
