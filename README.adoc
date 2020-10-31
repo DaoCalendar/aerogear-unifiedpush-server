@@ -12,7 +12,7 @@ endif::[]
 :toc:
 :toc-placement!:
 
-= AeroGear UnifiedPush Server
+== AeroGear UnifiedPush Server
 
 ifdef::status[]
 .*Project health*

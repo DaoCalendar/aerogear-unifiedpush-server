@@ -159,7 +159,9 @@
       </plugin>
 
       <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-remote-resources-plugin</artifactId>
+        <version>1.7.0</version>
         <executions>
           <execution>
             <goals>
@@ -256,7 +258,7 @@
             <dependency>
               <groupId>com.puppycrawl.tools</groupId>
               <artifactId>checkstyle</artifactId>
-              <version>8.18</version>
+              <version>8.36.2</version>
             </dependency>
           </dependencies>
         </plugin>
